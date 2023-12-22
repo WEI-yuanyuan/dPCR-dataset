@@ -1,0 +1,5 @@
+The Synthetic Image Generator (SIG) algorithm utilizes advanced GAN models, namely the Self-Attention GAN (SAGAN) and the Conditional GAN (CGAN), for dPCR image generation and augmentation. 
+
+Initially, the SAGAN was employed to generate synthetic ddPCR images. Real ddPCR images were fed into the SAGAN, which was trained to prioritize global dependencies in the input images, resulting in improved quality of the synthesized images. 
+
+For detailed information about the model's configuration and the outcomes of the training process, please refer to link5 (update by Shanhang).
