@@ -1,4 +1,10 @@
-The Public Real dPCR Image Dataset consists of dPCR images obtained from actual pre-clinical experiments, including 4,992 ddPCR (link3) and 21,019 microwell dPCR images (link4) (256×256x3). 
+Droplet dPCR:
+https://mycuhk-my.sharepoint.com/:u:/g/personal/1155118045_link_cuhk_edu_hk/EYgii3L-WzxHv2H1aStiZmgBzOAMRd05zIRql4FICFHypg?e=pKc7MQ
+
+Microwell dPCR:
+https://mycuhk-my.sharepoint.com/:u:/g/personal/1155118045_link_cuhk_edu_hk/EXQXDKgvzJROnmSANMwAW24BD7I-Cj2xQpYVADHjOxS0Wg?e=ADEvEP
+
+The Public Real dPCR Image Dataset consists of dPCR images obtained from actual pre-clinical experiments, including 4,992 ddPCR and 21,019 microwell dPCR images(256×256x3). 
 
 Both droplet dPCR images and microwell dPCR images demonstrate different sample concentrations and types of amplified templates, thereby displaying varied ratios of positive reactors. 
 
