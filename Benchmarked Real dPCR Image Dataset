@@ -1,0 +1,7 @@
+The Benchmarked Real dPCR Image Dataset consists of dPCR images obtained from actual experiments conducted in wet labs, along with human annotated data. 
+
+The microreactors, including droplets and microwells, have been classified into positive and negative classes using bounding boxes.
+
+For each microreactor, the data provides information on its size, coordinates, and class. 
+
+Link 1 (Update by Shanhang) contains 206 droplet dPCR images that have been labeled, while link 2 (Update by Shanhang) contains 144 labeled microwell dPCR images.
