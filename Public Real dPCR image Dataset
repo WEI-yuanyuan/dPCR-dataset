@@ -1,0 +1,7 @@
+The Public Real dPCR Image Dataset consists of dPCR images obtained from actual pre-clinical experiments, including 4,992 ddPCR (link3) and 21,019 microwell dPCR images (link4) (256×256x3). 
+
+Both droplet dPCR images and microwell dPCR images demonstrate different sample concentrations and types of amplified templates, thereby displaying varied ratios of positive reactors. 
+
+This assortment of images, reflecting different applications and experimental conditions, underscores the robustness and generalization capability of our database, thereby promoting reproducibility, collaboration, and education within the scientific community.
+
+The experiment are conducted by Prof. Ho-Pui Ho, Prof. Yi-Ping Ho, Prof. Wu Yuan's labs (Department of Biomedical Engineering, The Chinese University of Hong Kong) and Prof. Mingli You's lab (School of Life Science and Technology, Xi'an Jiaotong University).
